@@ -1,0 +1,80 @@
+News
+Views
+Coronavirus
+Sports
+Business
+Culture
+Life & Living
+Youth
+pTech & Startu
+Environment
+NRB
+
+ <div class="dropdown">
+           <li class="list"> <button class="dropbtn">Menu</button>  </li>
+            <div class="dropdown-content">
+              <a href="#">News</a>
+              <a href="#">Corona Virus</a>
+<a href="#">Youth</a>
+              <a href="#">Life & Living</a>
+               <a href="#">Tech & Startup </a>
+                <a href="#">Environment </a>
+                 <a href="#">NRB</a>
+               
+            </div>
+        </div></li>
+
+
+
+
+
+
+
+
+        .dropbtn {
+    background-color: #f6fffc;
+    color: rgb(7, 7, 7);
+    padding: 14px;
+    font-size: 14px;
+    border: none;
+    margin: 20px;
+  }
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  .dropdown-content a:hover {background-color: #ddd;}
+  .dropdown:hover .dropdown-content {display: block;}
+  .dropdown:hover .dropbtn {background-color: #bebebe;}
+.list{
+    color: black;
+    display: inline-block;
+    text-align: right;
+}
+
+
+ <div class="news_item">
+           <a class="a" href="https://www.prothomalo.com/bangladesh/capital/%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%A6%E0%A7%87%E0%A6%B0%E0%A6%9B%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%98%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%86%E0%A6%B9%E0%A6%A4">
+            <h3>মিরপুরে দুর্বৃত্তদের ছুরিকাঘাতে তিন ছাত্র আহত</h3>
+            <img src="img/img3.jpg" alt="">
+            <p class="p">রাজধানীর মিরপুর মাজার রোডে গতকাল শুক্রবার রাতে দুর্বৃত্তদের ছুরিকাঘাতে তিন শিক্ষার্থী আহত হয়েছে।তাদের ঢাকা মেডিকেল কলেজ হাসপাতালে ভর্তি করা...<p>
+                <small class="t">৬ মিনিট আগে</small>
+            </a>
+        </div>
+
+        
+Joseph E Stiglitz
