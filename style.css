@@ -137,17 +137,8 @@ padding: 15px;
             transition: 0.5s;
             z-index: -1;
         }
-        .botton:hover span
+
         
-        { width: 100%;}
-        
-        
-        
-        .botton:hover{
-            border: none;
-            
-            background-color: #0250f8 ;
-        }
         .lo{
 
             size: 70px;
